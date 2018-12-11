@@ -3,8 +3,8 @@
 A new wearable technology to help struggling addicts. 
 
 Designed by:
-- Sam Busser 
-- Keiran Pirie
+- Sam Busser sabu0818@colorado.edu
+- Keiran Pirie Keiran.Pirie@colorado.edu
 
 ### Markdown
 
