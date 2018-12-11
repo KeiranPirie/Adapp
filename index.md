@@ -6,6 +6,10 @@ Designed by:
 - Sam Busser sabu0818@colorado.edu
 - Keiran Pirie Keiran.Pirie@colorado.edu
 
+
+## Project Highlights
+[Project Plan](https://github.com/SamBusser30/Adapp/blob/master/Project%20Plan.pdf)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
