@@ -2,7 +2,7 @@
 
 A new wearable technology to help struggling addicts. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Designed by Sam Busser and Keiran Pirie.
 
 ### Markdown
 
