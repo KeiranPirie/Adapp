@@ -10,6 +10,14 @@ Designed by:
 ## Project Highlights
 [Project Plan](https://github.com/SamBusser30/Adapp/blob/master/Project%20Plan.pdf)
 
+[Design Research](https://github.com/SamBusser30/Adapp/blob/master/Design%20Research.pdf)
+
+[Paper Prototype](https://github.com/SamBusser30/Adapp/blob/master/Paper%20Prototype.pdf)
+
+[Usability Testing and Heuristics(https://github.com/SamBusser30/Adapp/blob/master/Group%205%20-%20Usability%20Testing%20and%20Heuristics%20.pdf)
+
+[Final Prototype and Storyboard](https://github.com/SamBusser30/Adapp/blob/master/Group%206%20-%20Final%20Prototype%20%26%20Storyboard.pdf)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
