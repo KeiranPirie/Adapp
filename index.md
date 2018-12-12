@@ -25,7 +25,3 @@ Designed by:
 [Download here](https://github.com/SamBusser30/Adapp/blob/master/Adapp_Busser_Pirie.mp4)
 
 [View in Google Drive here](https://drive.google.com/drive/u/1/folders/1BziW3fY68BMyGbWPVRrTGisFyUjXRcwD)
-
-
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
