@@ -18,10 +18,10 @@ Designed by:
 
 [Final Prototype and Storyboard](https://github.com/SamBusser30/Adapp/blob/master/Group%206%20-%20Final%20Prototype%20%26%20Storyboard.pdf)
 
-### Prototype 
+## Prototype 
 [Final Prototype](https://www.figma.com/file/QDCkgltcGU8RZuifYmI5WaAh/Adapp?node-id=0%3A1)
 
-### Final Video
+## Final Video
 [Download here](https://github.com/SamBusser30/Adapp/blob/master/Adapp_Busser_Pirie.mp4)
 
 [View in Google Drive here](https://drive.google.com/drive/u/1/folders/1BziW3fY68BMyGbWPVRrTGisFyUjXRcwD)
