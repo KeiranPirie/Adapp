@@ -24,7 +24,7 @@ Designed by:
 ### Final Video
 [Download here](https://github.com/SamBusser30/Adapp/blob/master/Adapp_Busser_Pirie.mp4)
 
-[View in Google Driver here](https://drive.google.com/drive/u/1/folders/1BziW3fY68BMyGbWPVRrTGisFyUjXRcwD)
+[View in Google Drive here](https://drive.google.com/drive/u/1/folders/1BziW3fY68BMyGbWPVRrTGisFyUjXRcwD)
 
 
 
